@@ -114,4 +114,4 @@ Verify the source code and bytecode of a deployed contract on Etherscan using a 
 
 
 
-                                                            🦋👽 Yours Truly, K42 to you 👽🦋
+🦋👽 Yours Truly, K42 to you 👽🦋
