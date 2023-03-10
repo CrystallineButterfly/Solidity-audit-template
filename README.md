@@ -6,6 +6,9 @@
 
 ⬛️ https://github.com/securing/SCSVS ✅
 
+⬛️ https://owasp.org/www-community/OWASP_Risk_Rating_Methodology ✅
+   
+
 # 🛸 Solidity-Automated Auditing tools commands list 🛸
 
 ## Solidity Audit Report and Contract efficency tools
