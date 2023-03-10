@@ -1,3 +1,11 @@
+# 🦋 Always PRIORITSE MANUAL ANAYLSIS OVER AUTOMATED TOOLS 🦋 #
+
+## Useful CheckLists 👽
+
+⬛️ https://github.com/transmissions11/solcurity ✅
+
+⬛️ https://github.com/securing/SCSVS ✅
+
 # 🛸 Solidity-Automated Auditing tools commands list 🛸
 
 ## Solidity Audit Report and Contract efficency tools
@@ -39,7 +47,7 @@
 
 ⬛️ `mythx report <job-id>` Generate a report for a completed analysis job ✅
 
-`mythx list-analyses` List all previous analysis jobs ✅
+⬛️ `mythx list-analyses` List all previous analysis jobs ✅
 
 ## Mythril 🚀
 
