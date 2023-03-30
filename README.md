@@ -1,4 +1,4 @@
-# 🦋 PRIORITSE MANUAL ANALYSIS OVER AUTOMATED TOOLS 🦋 #
+# 🦋 PRIORITSE MANUAL ANALYSIS OVER AUTOMATED TOOLS 🦋
 
 ## Useful CheckLists 👽
 
@@ -9,16 +9,18 @@
 ⬛️ https://owasp.org/www-community/OWASP_Risk_Rating_Methodology ✅
 
 ⬛️ https://github.com/ZhangZhuoSJTU/Web3Bugs ✅
-   
+
+⬛️ https://github.com/dragonfly-xyz/useful-solidity-patterns/tree/main/patterns ✅
 
 # 🛸 Solidity-Automated Auditing tools commands list 🛸
 
 ## Solidity Audit Report and Contract efficency tools
+
 ## Hardhat 🚀
 
 ⬛️ `npx hardhat compile` Compile the contract code ✅
 
-⬛️ `npx hardhat test` Run the test suite ✅ 
+⬛️ `npx hardhat test` Run the test suite ✅
 
 ⬛️ `npx hardhat coverage` Generate code coverage report ✅
 
@@ -82,7 +84,7 @@
 
 ⬛️ `surya describe-detector <detector-name>` Display information about a specific detector ✅
 
-## Other useful tools 
+## Other useful tools
 
 ## OpenZeppelin 🚀
 
@@ -116,13 +118,13 @@
 
 ## Hardhat-Verify 🚀
 
-⬛️`npx hardhat verify --network <network-name> <contract-address> "<constructor-args>"` 
+⬛️`npx hardhat verify --network <network-name> <contract-address> "<constructor-args>"`
 Verify the source code and bytecode of a deployed contract on Etherscan ✅
 
-⬛️ `npx hardhat verify --network <network-name> --contract contracts/<contract-name>.sol:<contract-address> --constructor-args "<constructor-args>"` 
+⬛️ `npx hardhat verify --network <network-name> --contract contracts/<contract-name>.sol:<contract-address> --constructor-args "<constructor-args>"`
 Verify the source code and bytecode of a deployed contract on Etherscan using a specific contract file and constructor arguments ✅
 
-⬛️ `npx hardhat verify --network <network-name> --contract contracts/<contract-name>.sol --constructor-args "<constructor-args>" <contract-address>` 
+⬛️ `npx hardhat verify --network <network-name> --contract contracts/<contract-name>.sol --constructor-args "<constructor-args>" <contract-address>`
 Verify the source code and bytecode of a deployed contract on Etherscan using a specific contract file and constructor arguments ✅
 
 ## Blessings 🙏 Keep coding, Keep learning, Keep growing, Keep searching 🙏
