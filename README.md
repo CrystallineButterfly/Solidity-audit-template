@@ -131,6 +131,14 @@ Verify the source code and bytecode of a deployed contract on Etherscan using a 
 ⬛️ `npx hardhat verify --network <network-name> --contract contracts/<contract-name>.sol --constructor-args "<constructor-args>" <contract-address>`
 Verify the source code and bytecode of a deployed contract on Etherscan using a specific contract file and constructor arguments ✅
 
+## Scribble 🚀
+
+⬛️ `scribble <file-name>` Generate a formal specification for the contract code ✅
+
+## SolSat 🚀
+
+⬛️ `solstat --help` See all commands possible for solstat ✅
+
 ## Blessings 🙏 Keep coding, Keep learning, Keep growing, Keep searching 🙏
 
 🦋👽 Yours Truly, K42 to you 👽🦋
