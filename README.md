@@ -12,6 +12,8 @@
 
 ⬛️ https://github.com/OpenCoreCH/smart-contract-auditing-heuristics ✅
 
+⬛️ https://github.com/slowmist/Web3-Project-Security-Practice-Requirements ✅
+
 ⬛️ https://solodit.xyz/dashboard ✅
 
 ⬛️ https://github.com/dragonfly-xyz/useful-solidity-patterns/tree/main/patterns ✅
