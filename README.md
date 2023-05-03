@@ -1,6 +1,6 @@
 # 🦋 PRIORITSE MANUAL ANALYSIS OVER AUTOMATED TOOLS 🦋
 
-## Useful CheckLists 👽
+## Useful CheckLists and Data waves 👽
 
 ⬛️ https://github.com/transmissions11/solcurity ✅
 
@@ -17,6 +17,9 @@
 ⬛️ https://solodit.xyz/dashboard ✅
 
 ⬛️ https://github.com/dragonfly-xyz/useful-solidity-patterns/tree/main/patterns ✅
+
+⬛️ https://github.com/0xcacti/awesome-oracle-manipulation ✅
+
 
 # 🛸 Solidity-Automated Auditing tools commands list 🛸
 
