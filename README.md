@@ -20,6 +20,9 @@
 
 ⬛️ https://github.com/0xcacti/awesome-oracle-manipulation ✅
 
+⬛️ https://github.com/harendra-shakya/smart-contract-attack-vectors ✅
+
+⬛️ https://github.com/TheAlgorithms/Solidity ✅
 
 # 🛸 Solidity-Automated Auditing tools commands list 🛸
 
