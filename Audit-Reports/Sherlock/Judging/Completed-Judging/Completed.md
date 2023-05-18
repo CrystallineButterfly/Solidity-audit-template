@@ -1,8 +1,10 @@
+(Completed more than this, but not all with valid judging, these show progression of judging)
+
 🕵️‍♂️ 1: https://github.com/sherlock-audit/2023-02-bond-judging-crystallinebutterfly ✅
 
 🕵️‍♂️ 2: https://github.com/sherlock-audit/2023-05-blueberry-judging-crystallinebutterfly ✅
 
-🕵️‍♂️ 3: (Completed more than this, but not all with valid judging, these show improved successful judging)
+🕵️‍♂️ 3: https://github.com/sherlock-audit/2023-03-notional-judging-crystallinebutterfly ✅
 
 🕵️‍♂️ 4: 
 
