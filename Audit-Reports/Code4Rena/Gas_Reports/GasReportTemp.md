@@ -1,4 +1,4 @@
-## Gas (or mana(as of new eip)) Optimization Report by K42
+## Gas (mana) Optimization Report by K42
 
 ### Possible Optimizations in 
 Scope = (Link)
@@ -22,6 +22,8 @@ Possible Optimization 3 =
 -- `` ``
 
 ### Possible Optimizations in
+Scope = (Link)
+
 Possible Optimization 1 =
 -- `` ``
 
