@@ -1,4 +1,4 @@
-# 🦋 PRIORITSE MANUAL ANALYSIS OVER AUTOMATED TOOLS 🦋
+# 🦋PRIORITSE MANUAL ANALYSIS OVER AUTOMATED TOOLS🦋
 
 ## Useful CheckLists and Data waves 👽
 
