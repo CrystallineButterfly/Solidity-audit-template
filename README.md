@@ -1,4 +1,4 @@
-# 🦋PRIORITSE MANUAL ANALYSIS OVER AUTOMATED TOOLS🦋
+# 🦋MANUAL ANALYSIS > AUTOMATED TOOLS🦋
 
 ## Useful CheckLists and Data waves 👽
 
@@ -23,6 +23,8 @@
 ⬛️ https://github.com/harendra-shakya/smart-contract-attack-vectors ✅
 
 ⬛️ https://github.com/TheAlgorithms/Solidity ✅
+
+⬛️ https://www.youtube.com/watch?v=nady250cNo4 ✅
 
 # 🛸 Solidity-Automated Auditing tools commands list 🛸
 
