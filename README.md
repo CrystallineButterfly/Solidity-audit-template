@@ -4,6 +4,8 @@
 
 ⬛️ https://github.com/transmissions11/solcurity ✅
 
+⬛️ https://github.com/tamjid0x01/SmartContracts-audit-checklist ✅
+
 ⬛️ https://github.com/securing/SCSVS ✅
 
 ⬛️ https://owasp.org/www-community/OWASP_Risk_Rating_Methodology ✅
