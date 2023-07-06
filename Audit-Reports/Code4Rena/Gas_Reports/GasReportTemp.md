@@ -1,124 +1,158 @@
-## Gas (mana) Optimization Report by K42
+ ## Gas (mana) Optimization Report by K42
+
+### Possible Optimization in 
+Scope = []()
+Possible Optimization = 
+-- The new ```` function would look like this ```` then ````
+
+- Estimated gas saved = 
+
+### Possible Optimization in 
+Scope = []()
+Possible Optimization = 
+-- To do this, update the ```` function like this ````
+``
+- Estimated gas saved = 
 
 ### Possible Optimizations in 
-Scope = (Link)
+Scope = []()
+Possible Optimization 1 = 
+-- To do this, update the ```` function like this ````
 
-Possible Optimization 1 (Link to lines in code) =
+- Estimated gas saved = 
 
---  =
+Possible Optimization 2 = 
+-- To do this, update the ```` function like this ````
 
-`` ``
+- Estimated gas saved = 
 
-Possible Optimization 2 =
-`` ``
---
-`` ``
+### Possible Optimizations in 
+Scope = []()
+Possible Optimization 1 = 
+-- To do this, update the ```` function like this ````
+- Estimated gas saved = 
+Possible Optimization 2 = 
+-- To do this, update the ```` function like this ````
 
-Possible Optimization 3 =
+- Estimated gas saved = 
 
---
---
-`` ``
--- `` ``
+### Possible Optimizations in 
+Scope = []()
+Possible Optimization = 
+-- To do this, update the ```` function like this ````
 
-### Possible Optimizations in
-Scope = (Link)
+- Estimated gas saved =
+### Possible Optimizations in 
+Scope = []()
+Possible Optimization = 
+-- To do this, update the ```` function like this ````
 
-Possible Optimization 1 =
--- `` ``
+- Estimated gas saved =
+### Possible Optimizations in 
+Scope = []()
+Possible Optimization = 
+-- To do this, update the ```` function like this ````
 
-Possible Optimization 2 =
---
--- Change `` ``
+- Estimated gas saved =
+### Possible Optimizations in 
+Scope = []()
+Possible Optimization = 
+-- To do this, update the ```` function like this ````
 
-To = `` ``
+- Estimated gas saved =
+### Possible Optimizations in 
+Scope = []()
+Possible Optimization = 
+-- To do this, update the ```` function like this ````
 
-Possible Optimization 3 =
---
---
---
+- Estimated gas saved =
+### Possible Optimizations in 
+Scope = []()
+Possible Optimization = 
+-- To do this, update the ```` function like this ````
 
-### Possible Optimization in
-Scope =
-Possible Optimization =
---
---
-### Possible Optimizations in
-Scope =
---
---
---
+- Estimated gas saved =
+### Possible Optimizations in 
+Scope = []()
+Possible Optimization = 
+-- To do this, update the ```` function like this ````
 
--- This will () save gas.
+- Estimated gas saved =
+### Possible Optimizations in 
+Scope = []()
+Possible Optimization = 
+-- To do this, update the ```` function like this ````
 
-### Possible Optimizations in
-Scope =
-Possible Optimization 1 =
---
--- `` ``
+- Estimated gas saved =
+### Possible Optimizations in 
+Scope = []()
+Possible Optimization = 
+-- To do this, update the ```` function like this ````
 
---
+- Estimated gas saved =
+### Possible Optimizations in 
+Scope = []()
+Possible Optimization = 
+-- To do this, update the ```` function like this ````
 
-Possible Optimization 2 =
---
--- `` ``
+- Estimated gas saved =
+### Possible Optimizations in 
+Scope = []()
+Possible Optimization = 
+-- To do this, update the ```` function like this ````
 
-Possible Optimization 3 =
+- Estimated gas saved =
+### Possible Optimizations in 
+Scope = []()
+Possible Optimization = 
+-- To do this, update the ```` function like this ````
 
--- `` ``
+- Estimated gas saved =
+### Possible Optimizations in 
+Scope = []()
+Possible Optimization = 
+-- To do this, update the ```` function like this ````
 
---
+- Estimated gas saved =
+### Possible Optimizations in 
+Scope = []()
+Possible Optimization = 
+-- To do this, update the ```` function like this ````
 
-### Possible Optimizations in
-Scope =
-Possible Optimization 1 =
+- Estimated gas saved =
+### Possible Optimizations in 
+Scope = []()
+Possible Optimization = 
+-- To do this, update the ```` function like this ````
 
--- `` ``
+- Estimated gas saved =
+### Possible Optimizations in 
+Scope = []()
+Possible Optimization = 
+-- To do this, update the ```` function like this ````
 
-Possible Optimization 2 =
+- Estimated gas saved =
+### Possible Optimizations in 
+Scope = []()
+Possible Optimization = 
+-- To do this, update the ```` function like this ````
 
---
-`` ``
+- Estimated gas saved =
+### Possible Optimizations in 
+Scope = []()
+Possible Optimization = 
+-- To do this, update the ```` function like this ````
 
-Possible Optimization 3 =
+- Estimated gas saved =
+### Possible Optimizations in 
+Scope = []()
+Possible Optimization = 
+-- To do this, update the ```` function like this ````
 
---
+- Estimated gas saved =
+### Possible Optimizations in 
+Scope = []()
+Possible Optimization = 
+-- To do this, update the ```` function like this ````
 
-Possible Optimization 4 =
-
--- `` ``
-
-Also = `` ``
-
-### Possible Optimizations in
-Scope =
-Possible Optimizations =
---
-
---
-### Possible Optimization in
-Scope =
-Possible Optimization =
-On lines =
-
---
-`` ``
-
-### Possible Optimizations in
-Scope =
-Possible Optimization =
-
---
-On lines =
-
-### Possible Optimization in
-Scope =
-Possible Optimization =
---
---
-### Possible Optimizations in
-Scope =
-Possible Optimizations =
-
---
--- `` ``
+- Estimated gas saved =
