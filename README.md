@@ -28,6 +28,8 @@
 
 ⬛️ https://www.youtube.com/watch?v=nady250cNo4 ✅
 
+⬛️ https://github.com/spearbit/armory ✅
+
 # 🛸 Solidity-Automated Auditing tools commands list 🛸
 
 ## Solidity Audit Report and Contract efficency tools
