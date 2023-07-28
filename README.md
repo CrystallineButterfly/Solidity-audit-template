@@ -12,6 +12,8 @@
 
 ⬛️ https://github.com/ZhangZhuoSJTU/Web3Bugs ✅
 
+⬛️  https://github.com/saeidshirazi/Awesome-Smart-Contract-Security ✅
+
 ⬛️ https://github.com/OpenCoreCH/smart-contract-auditing-heuristics ✅
 
 ⬛️ https://github.com/slowmist/Web3-Project-Security-Practice-Requirements ✅
