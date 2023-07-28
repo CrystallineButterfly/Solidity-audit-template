@@ -1,6 +1,12 @@
 👽 Canto = https://twitter.com/CrystAlline_K42/status/1649609637023600641 ✅
-👽 EigenLayer = 
-👽 Ajna = ✅
-👽 Venus = 
-👽 JuiceBox = 
-👽 ChainLink = 
+👽 EigenLayer, Llama, ENS, Lybra, MaiaDAO = 🔮
+👽 Ajna = 💎✅💎
+👽 Venus = 💎✅💎
+👽 JuiceBox = 💎✅💎
+👽 Stader = 💎✅💎
+👽 ChainLink = 💎✅💎
+👽 NounsDAO = 💎✅💎
+👽 Basin =
+👽 Axelar = 
+👽 Amphora = 
+👽 Arcade = 
